@@ -1,68 +1,72 @@
-# 🚗 Landing Page - Wide Coverage Location
+# 🚗 Wide Coverage Landing Page
 
-## 🇺🇸 About the project
+A modern mobility service landing page focused on clean design, layout structure and user experience.
 
-A responsive landing page built to practice front-end fundamentals using HTML and CSS, focusing on layout structure and visual styling.
-
-The project simulates a modern mobility service interface, highlighting a clean design and user-friendly layout.
+🔗 **Live Demo:** https://jeanholanda.github.io/wide-coverage-landing-page/
 
 ---
 
-## 🇧🇷 Sobre o projeto
+## About the project
 
-Uma landing page responsiva desenvolvida para praticar fundamentos de front-end com HTML e CSS, com foco em estruturação de layout e estilização.
+This project is a responsive landing page developed to practice front-end fundamentals using HTML and CSS.
 
-O projeto simula a interface de um serviço de mobilidade moderna, com um design limpo e agradável.
+It simulates a modern mobility service interface, focusing on layout composition, visual hierarchy and user-friendly design.
+
+---
+
+## Sobre o projeto
+
+Este projeto é uma landing page responsiva desenvolvida para praticar fundamentos de front-end com HTML e CSS.
+
+Ele simula a interface de um serviço moderno de mobilidade, com foco em composição de layout, hierarquia visual e experiência do usuário.
 
 ---
 
 ## 🎯 Purpose
 
-This project was created to strengthen my front-end fundamentals, especially working with layout organization, responsiveness and visual hierarchy.
+The main goal of this project is to improve my front-end development skills, especially:
+
+- Structuring layouts  
+- Improving visual hierarchy  
+- Building responsive designs  
 
 ---
 
 ## 🚀 Technologies
 
-* HTML5
-* CSS3
+- HTML5  
+- CSS3  
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-* 📄 Structured and semantic HTML
-* 🎨 Modern and clean UI design
-* 🖱️ Interactive elements with hover and active effects
-* 📱 Responsive layout for mobile devices
-* 🧩 Organized content sections (header, image, text)
+- 🚗 Mobility service themed interface  
+- 🎨 Modern and clean UI design  
+- 🖱️ Creating interactive hover and active effects  
+- 📱 Building responsive layout for different screen sizes  
+- 🧩 Organizing structured content sections  
 
 ---
 
 ## 💡 What I learned
 
-* How to structure a landing page layout
-* How to use CSS for positioning and spacing
-* How to apply hover and active effects
-* How to build responsive designs using `@media`
-* How to improve visual hierarchy with typography and spacing
+- Structuring landing page layouts using semantic HTML  
+- Applying CSS for positioning and spacing  
+- Creating interactive UI elements  
+- Building responsive designs using `@media`  
+- Improving visual hierarchy with typography and spacing  
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeanHolanda/wide-coverage-landing-page/0f8116d345f0f71daec41c1cfc72062b126a6ff7/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post%20Landing%20Page.png" width="700">
+  <img src="https://raw.githubusercontent.com/JeanHolanda/wide-coverage-landing-page/0f8116d345f0f71daec41c1cfc72062b126a6ff7/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post%20Landing%20Page.png" width="650">
 </p>
-
----
-
-## 🔗 Live Demo
-
-👉 https://jeanholanda.github.io/wide-coverage-landing-page/
 
 ---
 
 ## 🧑‍💻 Author
 
-Jean Holanda 🚀
+Developed by Jean Holanda 🚀
