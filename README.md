@@ -2,7 +2,7 @@
 
 A modern mobility service landing page focused on clean design, layout structure and user experience.
 
-🔗 **Live Demo:** https://jeanholanda.github.io/wide-coverage-landing-page/
+🔗 **Live Demo:** [Wide Coverage Landing Page](https://jeanholanda.github.io/wide-coverage-landing-page/)
 
 ---
 
